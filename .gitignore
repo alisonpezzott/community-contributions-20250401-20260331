@@ -1,3 +1,2 @@
 *.xlsx
-excel_to_markdown.py
-contribuicoes.md
+.env
