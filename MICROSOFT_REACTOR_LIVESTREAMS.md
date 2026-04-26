@@ -1,4 +1,10 @@
-# Microsoft Reactor Livestreams
+# 📺 Microsoft Reactor Livestreams
+
+[← Back to Overview](README.md)
+
+Official **Microsoft Reactor** livestreams focused on Microsoft certification preparation. Sessions covered the full exam blueprints for **PL-300** (Power BI Data Analyst) and **DP-600** (Fabric Analytics Engineer), including data preparation, visualization, semantic models, governance, and exam-day Q&A.
+
+**Total: 7 sessions**
 
 | URL | Title | Date |
 |-----|-------|------|

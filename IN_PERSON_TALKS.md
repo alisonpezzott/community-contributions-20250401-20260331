@@ -1,4 +1,10 @@
-# In Person
+# 🎤 In-Person Talks & Events
+
+[← Back to Overview](README.md)
+
+Presentations delivered at major Microsoft and data community events across Brazil. Topics span CI/CD with Microsoft Fabric, Power BI collaboration workflows, Power Query M, and analytics engineering best practices.
+
+**Total: 8 sessions**
 
 | URL | City | Event | Title | Date |
 |-----|------|-------|-------|------|

@@ -1,4 +1,10 @@
-# YouTube Channel
+# 🎬 YouTube Channel
+
+[← Back to Overview](README.md)
+
+Original videos published on the [Alison Pezzott YouTube channel](https://www.youtube.com/@alisonpezzott), covering Microsoft Fabric, Power BI, DAX, CI/CD automation, Apache Spark, Python, and data engineering — from beginner walkthroughs to advanced production-grade scenarios.
+
+**Total: 43 videos**
 
 | URL | Title | Date |
 |-----|-------|------|

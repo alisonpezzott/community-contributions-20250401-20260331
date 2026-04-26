@@ -1,4 +1,10 @@
-# YouTube Collabs
+# 🤝 YouTube Collaborations
+
+[← Back to Overview](README.md)
+
+Guest appearances and co-hosted episodes on partner YouTube channels, covering Microsoft Fabric, Power BI performance, CI/CD, career in data, and the Microsoft MVP program.
+
+**Total: 8 collaborations**
 
 | URL | Title | Date |
 |-----|-------|------|

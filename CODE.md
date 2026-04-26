@@ -1,4 +1,10 @@
-# Code
+# 💻 Open Source Code & Projects
+
+[← Back to Overview](README.md)
+
+GitHub repositories and community code contributions built to solve real-world data engineering, BI development, and DevOps challenges on the Microsoft data platform.
+
+**Total: 7 projects**
 
 |URL|Title|Date|Description|
 |---|---|---|---|
