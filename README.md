@@ -49,11 +49,11 @@ This repository documents my community contributions submitted for **Microsoft M
 |---|----------|:-----:|---------|
 | 🎤 | In-Person Talks & Events | **8** | [View →](IN_PERSON_TALKS.md) |
 | 💻 | Open Source Code & Projects | **7** | [View →](CODE.md) |
-| 🎬 | YouTube Channel Videos | **43** | [View →](YOUTUBE_CHANNEL.md) |
+| 🎬 | YouTube Channel Videos | **40** | [View →](YOUTUBE_CHANNEL.md) |
 | 🤝 | YouTube Collaborations | **8** | [View →](YOUTUBE_COLLABS.md) |
 | 📺 | Microsoft Reactor Livestreams | **7** | [View →](MICROSOFT_REACTOR_LIVESTREAMS.md) |
 | 📝 | Articles & Blog Posts | **5** | [View →](ARTICLES.md) |
-| | **Total Contributions** | **78** | |
+| | **Total Contributions** | **75** | |
 
 ---
 
@@ -87,7 +87,7 @@ A Python wrapper library for Microsoft Fabric and Power BI REST APIs, designed t
 
 ### 🎬 [YouTube Channel](YOUTUBE_CHANNEL.md)
 
-Over **40 original videos** published in the contribution period, ranging from beginner-friendly walkthroughs to advanced production-grade engineering scenarios. Topics include Microsoft Fabric architecture, CI/CD automation, Spark data processing, DAX advanced techniques, Git integration, and Python for data.
+**40 original videos** published in the contribution period, ranging from beginner-friendly walkthroughs to advanced production-grade engineering scenarios. Topics include Microsoft Fabric architecture, CI/CD automation, Spark data processing, DAX advanced techniques, Git integration, and Python for data.
 
 Notable series:
 - **Microsoft Fabric + Spark** — 6-episode series covering the full medallion architecture from blob ingestion to Direct Lake semantic models

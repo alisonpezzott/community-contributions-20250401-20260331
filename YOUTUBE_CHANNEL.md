@@ -8,9 +8,6 @@ Original videos published on the [Alison Pezzott YouTube channel](https://www.yo
 
 | URL | Title | Date |
 |-----|-------|------|
-| [Link](https://www.youtube.com/watch?v=hjGPqKr3MaQ) | Ingestão Dinâmica de Múltiplas Filiais | 22/04/2026 |
-| [Link](https://www.youtube.com/watch?v=e1eAaMpSKlE) | Como vários engenheiros trabalham ao mesmo tempo com Fabric sem quebrar o ambiente de produção | 15/04/2026 |
-| [Link](https://www.youtube.com/watch?v=U9i1xVQr2hU) | Adeus fluxos de dados Gen1! | 06/04/2026 |
 | [Link](https://www.youtube.com/watch?v=o1LuFvJG1go) | Merge, Squash ou Rebase? Entenda os tipos de merge no GitHub | 30/03/2026 |
 | [Link](https://www.youtube.com/watch?v=mJZ4CWujjQw) | Novas features para Microsoft Fabric: Item & connection references / Branch seletivo Git integration | 22/03/2026 |
 | [Link](https://www.youtube.com/watch?v=jFUmLpMKtzg) | CI/CD Plenamente possível com Power BI PRO! | 16/03/2026 |
